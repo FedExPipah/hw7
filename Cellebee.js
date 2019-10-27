@@ -89,8 +89,7 @@ function keyPressed() {
     Bday.onended(wish);
     print("checked");
     background(255);
-    box = cellebee3;
-    //white background to cover up B 
+    box = cellebee3; 
 
   }
 
